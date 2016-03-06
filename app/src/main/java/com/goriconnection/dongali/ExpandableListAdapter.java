@@ -11,9 +11,6 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by 황세희 on 2015-03-13.
- */
 public class ExpandableListAdapter extends BaseExpandableListAdapter {
     private Context context;
     private  ArrayList<Group> groups;

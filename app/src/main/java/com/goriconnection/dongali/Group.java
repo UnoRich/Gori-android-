@@ -2,9 +2,6 @@ package com.goriconnection.dongali;
 
 import java.util.ArrayList;
 
-/**
- * Created by 황세희 on 2015-03-13.
- */
 public class Group {
     private String Name;
     private ArrayList<Child> Items;

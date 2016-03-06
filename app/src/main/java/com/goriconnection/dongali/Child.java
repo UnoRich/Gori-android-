@@ -1,7 +1,5 @@
 package com.goriconnection.dongali;
-/**
- * Created by 황세희 on 2015-03-13.
- */
+
 public class Child {
     private String Name;
     private String Keywords;
